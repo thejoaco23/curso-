@@ -1,0 +1,33 @@
+/ programación de hilos 
+tarea 1: Abrir & read file 1 en medio 1 ---  10Sg
+tarea 2: open & read filem 2 en medio 2 ---  10Sg
+tarea 3: open formulario and show the content of the files ---  1Sg
+
+ Task 1      Task 2       Task 3
+^----------^ ^----------^ ^-^
+ 10Sg         10Sg         1Sg
+   ETA : 21 Sg
+ Task 1         
+ ^----------^ 
+   10Sg
+  Task 2     
+ ^----------^
+   10Sg
+   Task 3
+     ^-^
+     1Sg
+ETA: 11Sg
+otro ejemplo 
+ Task 1         
+ ^----------^ 
+   10Sg
+  Task 2     
+ ^----------^
+   10Sg
+ y la 3 empieza a antes  que las anteriores
+   Task 3
+     ^-^
+   1 Sg 
+
+HiloT
+ 10Sg
